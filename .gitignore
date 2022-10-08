@@ -1,0 +1,9 @@
+objs/
+bin/
+*.o
+logs/
+*.log
+.vscode/
+*.cpp
+*.h
+tests/
