@@ -7,3 +7,6 @@ logs/
 *.cpp
 *.h
 tests/
+build/
+dist/
+*.spec
